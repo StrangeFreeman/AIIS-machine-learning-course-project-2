@@ -56,7 +56,7 @@ this is a AIIS machine learning course project 2 using matlab
 
 ## final output description
 
-a 3x4 matrix
+three 3x3 matrix
 
 - waist data:
 
